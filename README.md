@@ -4,8 +4,6 @@
 
 This Clinic is builded in Java.
 
-![image](https://user-images.githubusercontent.com/85125562/142744404-c25838d5-e16d-449b-b9c7-352ff049bb0f.png)
-
 ## Table of Contents
 * [Getting Started](#getting-started)
 * [Installing](#installing)
