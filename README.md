@@ -2,7 +2,7 @@
 
 **Version 1.0.0**
 
-This Clinic is builded in Java.
+This API is a microservice that allows the registration of patients, their respective addresses and dentists.
 
 ## Table of Contents
 * [Getting Started](#getting-started)
